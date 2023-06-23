@@ -1,0 +1,16 @@
+Made notes within the queries
+Looking at the table by using SELECT and FROM syntax
+Change table name by using ALTER TABLE and RENAME TO syntax
+Top budgeted movies by using SELECT, FROM, ORDER BY, DESC, and LIMIT syntax
+Update to USD currency by using UPDATE, SET, and REPLACE sytax
+See if it updated correctly by using SELECT, FROM, ORDER BY syntax
+Top rated movies by using SELECT, FROM, and ORDER BY synatx
+Top box office hits by using SELECT, FROM, ORDER BY, LIMIT, DESC synatx 
+Make colomn into queries
+Top profitable movies by using SELECT, FROM, ORDER BY, DESC, and LIMIT synatx
+Most popular directors and Amount of movies per certificate by using SELECT, COUNT, AS, FROM, GROUP BY, ORDER BY, DESC, and Limit syntax
+Made subquires 
+Most popluar genre by using SELECT, FROM, COUNT, AS, CROSS JOIN, REPLACE, GROUP BY, ORDER BY, DESC, and LIMIT syntax
+Adding columns by using data from another column 
+Add minute column  by using SELECT, FROM, ALTER TABLE, ADD, and AS syntax
+Amount of movies per decade by using SELECT, AS, COUNT, FROM, GROUP BY, ORDER BY syntax 
